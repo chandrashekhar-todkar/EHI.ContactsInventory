@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EHI.ContactsInvetory.DataAccess\EHI.ContactsInvetory.DataAccess.csproj" />
+    <ProjectReference Include="..\EHI.ContactsInvetory.Dto\EHI.ContactsInvetory.Dto.csproj" />
+  </ItemGroup>
+
+</Project>
