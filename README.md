@@ -3,31 +3,31 @@ The application preservs Contact information in system, allows users to manipula
 
 ## Project Hirarchy
 
-EHI.ContactsInvetory__ 
------->	EHI.ContactsInvetcry.API__
--------------->	Controllers__
------->	EHI.ContactsInvetory.BusinessLayer__ 
--------------->	Interfaces__
--------------->	Implementation__
------->	EHI.ContactsInvetory.DataAccess__ 
--------------->	Interfaces__
--------------->	Implementation__
------->	EHI.ContactsInvetory.Dto__ 
------->	EHI.ContactsInvetory.Tests__ 
------->	EHI.ContactsInvetory.Web__ 
--------------->	Controllers__
--------------->	Views__
--------------->	Models__
+EHI.ContactsInvetory   
+------>	EHI.ContactsInvetcry.API  
+-------------->	Controllers  
+------>	EHI.ContactsInvetory.BusinessLayer  
+-------------->	Interfaces  
+-------------->	Implementation  
+------>	EHI.ContactsInvetory.DataAccess  
+-------------->	Interfaces  
+-------------->	Implementation  
+------>	EHI.ContactsInvetory.Dto   
+------>	EHI.ContactsInvetory.Tests   
+------>	EHI.ContactsInvetory.Web  
+-------------->	Controllers  
+-------------->	Views  
+-------------->	Models  
 
 ## Deployment
 
-1. Give appropriate database connection string in EHI.ContactsInvetcry.API project appConfig.json file__
-2. While publish, ensure Execute Code First Migrations is checked__
+1. Give appropriate database connection string in EHI.ContactsInvetcry.API project appConfig.json file  
+2. While publish, ensure Execute Code First Migrations is checked  
 
 ## WIP
 
-1. Authentication and Authorization__
-2. 100% Unit test coverage__
+1. Authentication and Authorization 
+2. 100% Unit test coverage  
 
 ## Authors
 
